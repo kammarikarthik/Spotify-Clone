@@ -95,3 +95,10 @@ nav ul li{
     margin:0 23px;
 }
 .timestamp i{
+    cursor: pointer;
+}
+.progressBar{
+    width:80vw;
+    height: 19px;
+    background-color: white;
+}
